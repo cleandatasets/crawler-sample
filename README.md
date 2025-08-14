@@ -28,7 +28,7 @@ This dataset is ideal for:
 
 ## File List
 - `wiki_datasample.json` — The raw JSON sample dataset
-- `wiki_metadats` — The URL, timestamp and success status of the scrape  
+- `wiki_metadata.json` — The URL, timestamp and success status of the scrape  
 - `README.md` — This file with dataset description, considerations, and attribution  
 
 ## License
